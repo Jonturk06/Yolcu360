@@ -10,7 +10,7 @@ public class Arac_Talebi {
     }
 
     private String alinacakSehir;
-    // Angara
+    // Ankara
 
 
     private String alinacakGun;
